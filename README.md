@@ -33,7 +33,11 @@ If you have an interesting project or idea, feel free to connect—I’m excited
 - **Visualization Lover:** I love creating colorful and informative visualizations—sometimes I dream in graphs and charts.
 - **Problem Solver:** I enjoy solving puzzles and logic problems in my free time. Data analysis feels like a giant puzzle to me!
 - **Music & Data:** I find listening to music helps me focus better while working on data analysis projects. My playlists are as diverse as my data!
+## Titanic Dataset Survival Analysis
 
+I've completed a project analyzing the Titanic dataset to predict survival rates. You can view the notebook on GitHub using the following link:
+
+[Titanic Survival Analysis Notebook](https://github.com/ashish19950830/ashish19950830/blob/main/Titanic_survival_Project.ipynb)
 
 <!---
 ashish19950830/ashish19950830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
